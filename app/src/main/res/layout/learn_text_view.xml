@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/listTextView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="20dp"
+    android:background="@android:color/white"
+    android:fontFamily="@font/inconsolata"
+    android:paddingBottom="22dp"
+    android:paddingEnd="22dp"
+    android:paddingLeft="22dp"
+    android:paddingRight="22dp"
+    android:paddingStart="22dp"
+    android:paddingTop="22dp"
+    android:text="TEST"
+    android:textAlignment="center"
+    android:textColor="@android:color/holo_blue_dark"
+    android:textSize="27sp">
+
+</TextView>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ExamplesLandingPage">
+
+    <ImageView
+        android:id="@+id/codeExamplesIV"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_margin="15dp"
+        android:adjustViewBounds="true"
+        android:padding="15dp"
+        android:paddingBottom="7dp"
+        android:src="@drawable/code_examples" />
+
+    <ImageView
+        android:id="@+id/usefulVideosIV"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_margin="15dp"
+        android:adjustViewBounds="true"
+        android:padding="15dp"
+        android:paddingTop="7dp"
+        android:src="@drawable/useful_videos" />
+
+    <ImageView
+        android:id="@+id/resourcesIV"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="15dp"
+        android:adjustViewBounds="true"
+        android:padding="15dp"
+        android:paddingBottom="7dp"
+        app:srcCompat="@drawable/additional_resources" />
+
+</RelativeLayout>

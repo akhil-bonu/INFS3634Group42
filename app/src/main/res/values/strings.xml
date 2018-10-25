@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Inherit Java</string>
+    <string name="main_activity_name">Home</string>
+
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+
+
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="inheritanceToDo">TODO</string>
+    <string name="polymorphismToDo">TODO</string>
+    <string name="inheritance">Inheritance</string>
+    <string name="polymorphism">Polymorphism</string>
+    <string name="todo2">TODO</string>
+    <string name="learn">TODO</string>
+    <string name="questions">TODO</string>
+    <string name="quiz">TODO</string>
+    <string name="learntextview">Learn</string>
+    <string name="questionsTV">Review</string>
+    <string name="quiztv">Quiz</string>
+    <string name="appbar_scrolling_view_behavior">scroll</string>
+    <string name="title_activity_search">title</string>
+    <string name="title_activity_photo_detail">activityphoto</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="Question_1">1. Inheritance is a component in APIE</string>
+    <string name="Question_2">2. Once a subclass is made, it is then unable to be extended itself</string>
+    <string name="Question_3">3. How many subclasses can one class have?</string>
+    <string name="Question_4">4. What are some of the benefits of Inheritance?</string>
+    <string name="Question_5">5. What is the primary Inheritance keyword?</string>
+    <string name="Question_6">6. ___ invokes the immediate parent class method</string>
+    <string name="Question_7">7. Running this would cause an error</string>
+    <string name="Question_8">8. Which line is incorrect?</string>
+    <string name="Question_9">9. What will be the first line printed?</string>
+    <string name="Question_10">10. Which classes inherit Teacher properties?</string>
+    <string name="Question_11">11. In the video, Apple Tree was a subclass of Tree</string>
+    <string name="Question_12">12. In the airplane/paper example, what was the superclass?</string>
+    <string name="Question_13">13. Complete the sentence: subclasses have a ____ relationship with the superclass</string>
+
+    <string name="True">True</string>
+    <string name="False">False</string>
+    <string name="None">None of the above</string>
+    <string name="All">All of the above</string>
+    <string name="Null"> </string>
+    <string name="number_correct_number_goes_here">Number Correct: number goes here</string>
+    <string name="number_incorrect_number_goes_here">Number Incorrect: number goes here</string>
+    <string name="redo_test">Redo Test</string>
+    <string name="home">Home</string>
+    <string name="placeholderResultText">resultText here</string>
+    <string name="q1_hint">APIE: Abstraction, Polymorphism, Inheritance, Encapsulation</string>
+    <string name="q2_hint">A class can be a superclass, granfather class, etc.</string>
+    <string name="q3_hint">Regardless of what is in the class, a superclass can have unlimited subclasses </string>
+    <string name="q4_hint">There are many benefits to Inheritance</string>
+    <string name="q5_hint">"public mySubclass extends my Superclass {…}"</string>
+    <string name="q6_hint">See learning material in previous section</string>
+    <string name="q7_hint">No errors would be caused by running this code</string>
+    <string name="q8_hint">The keyword is extends, not extend</string>
+    <string name="q9_hint">Check the order in which order printing is compiled</string>
+    <string name="q10_hint">A grandchild class still inherits properties from the grandfather class</string>
+    <string name="q11_hint">Make sure to watch the video</string>
+    <string name="q12_hint">Make sure to watch the video</string>
+    <string name="q13_hint">Make sure to watch the video</string>
+    <string name="view_incorrect_answers">View Incorrect Answers</string>
+
+</resources>
